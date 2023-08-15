@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
       <Center borderTopEndRadius='50%' mt='8' py='20px' bg='pink.700' color='white'>
-        <Text fontSize='15px'>Copyright &copy; 2022. All rights reserved.</Text>
+        <Text fontSize='15px'>Copyright &copy; 2023. All rights reserved.</Text>
       </Center>
     </>
   )
